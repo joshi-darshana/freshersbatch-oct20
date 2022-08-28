@@ -1,4 +1,4 @@
-This is README File. css line 1 changed. master branch
+This is README File.
 In the Assignment directory
 We have Assignments of HTML, CSS, GIT & GITHUB -- Line 3
 We have Assignments of HTML, CSS, GIT & GITHUB
